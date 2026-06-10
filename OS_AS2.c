@@ -12,7 +12,6 @@
 #include <unistd.h>
 #include <time.h>
 #include <limits.h>
-
 #define ONID "edwarluk"
 
 // The Function Prototypes
